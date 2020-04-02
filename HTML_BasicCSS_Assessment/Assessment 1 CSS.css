@@ -1,0 +1,49 @@
+body {
+  background-color: #79B9C6;
+  font-family: arial}
+
+
+#digital-heaven {
+  text-align: center;
+  color: white;
+  font-size: 23px;
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  margin-left: -170px;
+  vertical-align: 50%
+  white-space: nowrap;}
+
+
+#FDM {
+  color: white;
+  text-align: left;
+  font-size:14px;
+  margin: 0 auto}
+
+
+#bringing-fancy-ideas-to-life {
+  text-align: center;
+  font-size: 14px;
+  color:#101010;
+  position: absolute;
+  left: 50%;
+  margin-left: -60px;
+  top: 25%}
+  
+
+
+.div1 {
+  width: 140px;
+  height: 35px;
+  color: white;
+  vertical-align: center;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top:50%;
+  margin-left: -60px;
+  padding: 10px;
+  border: 2px solid white;
+  box-sizing: border-box;
+  font-size: 10px;}
