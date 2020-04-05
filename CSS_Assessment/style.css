@@ -1,0 +1,43 @@
+#container{text-align: center;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 170px;
+    top: 30%;
+    margin-top: -118px;
+
+}
+  
+  
+header {background: gray;
+    position: fixed;
+    margin: 10px;
+    margin-left: -8px;
+    margin-top:-1px;
+    top: 0%;
+    width: 100%;
+    text-align: center}
+  
+#left {background: blue;
+    width: 50%;
+    float: left;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+     
+  
+#right {background: red;
+    width: 25%;
+    float: right;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  
+footer {background: green; 
+    position: fixed;
+    margin: 10px;
+    margin-left: -8px;
+    margin-bottom: -1px;
+    bottom: 0%;
+    width: 100%;
+    text-align: center}
+  }
