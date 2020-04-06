@@ -6,11 +6,11 @@ body {
 #digital-heaven {
   text-align: center;
   color: white;
-  font-size: 34px;
+  font-size: 70px;
   position: absolute;
   left: 50%;
-  top: 30%;
-  margin-left: -280px;
+  top: 35%;
+  margin-left: -283px;
   vertical-align: inherit;
   white-space: nowrap;}
 
@@ -18,7 +18,7 @@ body {
 #FDM {
   color: white;
   text-align: left;
-  font-size:14px;
+  font-size: 20px;
   margin: 0 auto}
 
 
@@ -28,7 +28,7 @@ body {
   color:#101010;
   position: absolute;
   left: 50%;
-  margin-left: -82px;
+  margin-left: -126px;
   top: 27%}
   
 
@@ -40,9 +40,9 @@ body {
   text-align: center;
   position: absolute;
   left: 50%;
-  top: 52%;
-  margin-left: -65px;
+  top: 55%;
+  margin-left: -70px;
   padding: 10px;
   border: 2px solid white;
   box-sizing: border-box;
-  font-size: 10px;}
+  font-size: 12px;}
