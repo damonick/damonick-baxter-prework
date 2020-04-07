@@ -1,0 +1,37 @@
+body {
+  background-color: #79B9C6;
+  font-family: arial}
+
+
+.navbar {
+  color: white; 
+  font: 20px
+
+}
+
+#row2 {
+  
+  font-size: 60px;
+  color:#101010;
+  }
+
+
+#row3 {
+  color: white;
+  font-size: 70px;
+}
+  
+
+#row4 {
+  width: 140px;
+  height: 35px;
+  color: white;
+  text-align: center;
+  position: relative;
+  left: 40%;
+  top: 55%;
+  padding: 10px;
+  border: 2px solid white;
+  box-sizing: border-box;
+  font-size: 12px;}
+  
