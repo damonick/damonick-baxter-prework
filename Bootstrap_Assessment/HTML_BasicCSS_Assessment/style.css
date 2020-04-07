@@ -1,6 +1,8 @@
 body {
   background-color: #79B9C6;
-  font-family: arial}
+  font-family: arial;
+  font-weight: bold;
+}
 
 
 .navbar {
@@ -23,7 +25,7 @@ body {
   
 
 #row4 {
-  width: 140px;
+  width: 150px;
   height: 35px;
   color: white;
   text-align: center;
