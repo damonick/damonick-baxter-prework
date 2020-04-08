@@ -1,0 +1,43 @@
+
+.navbar {background: white}
+
+.navbar-brand  {border: border-box;
+    background-color:#4aaaa5;
+    font-size: 50px;    
+    color: white
+    }
+
+
+
+.row { background:white;
+line-height: 2;}
+
+
+
+ul {
+        font: 70px
+      
+}
+
+header {border-color: #4aaaa5;
+    
+
+}
+
+h2 {border-bottom:0px; 
+margin-top: 90px;
+margin-bottom: 0px;
+padding: 30px;
+color: #4aaaa5;}
+
+.col-sm-offset {position:relative}
+
+footer {background: #666666; 
+    position: fixed;
+    margin: 10px;
+    margin-bottom: -1px;
+    margin-left: 0.25px;
+    padding: 10px;
+    bottom: 0%;
+    width: 100%;
+    text-align: center}
