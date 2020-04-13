@@ -1,27 +1,32 @@
-
 .navbar {background: white}
 
 .navbar-brand  {border: border-box;
     background-color:#4aaaa5;
-    font-size: 50px;  
+    font-size: 40px;  
     text-align: center;  
-    padding-right:-50px;
+    padding-right:-500px;
     color: white
     }
 
 .container {max-width: 800px;
-    height: 600px}
+    height: 550px;
+    background:white }
 
 
 .row { background:white;
-    line-height: 2;
+    line-height: 1.5;
     margin-left: 0}
 
+form {margin-top: 40px;}
 
+ul {
+        font: 90px
       
 }
 
-header {border-color: #4aaaa5;
+header {border-color: #4aaaa5;    
+    color: #4aaaa5;
+    margin-top: 40px;
     
 
 }
@@ -33,14 +38,35 @@ padding: 30px;
 color: #4aaaa5;}
 
 
+p { margin-top: 0;
+    margin-bottom: 1rem;
+    margin-right: 50px;}
 
-footer {background: #666666; 
+.btn {position: relative;
+    margin-bottom: 20px;
+    margin-top:50px;
+    overflow-inline: auto;
+}
+
+.footer {background: #666666; 
     position: fixed;
-    margin: 10px;
-    margin-top:30px;
+    margin: 5px;
+    margin-top:0px;
     margin-bottom: -1px;
-    margin-left: 0.25px;
-    padding: 10px;
+    margin-left: -1px;
+    padding: 5px;
     bottom: 0%;
     width: 100%;
     text-align: center}
+
+.footer2 {background: #666666; 
+        position: fixed;
+        margin: 5px;
+        margin-top:0px;
+        margin-bottom: -1px;
+        margin-left: -1px;
+        padding: 5px;
+        bottom: 0%;
+        width: 100%;
+        text-align: center}
+
